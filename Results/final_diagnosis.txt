@@ -1,0 +1,29 @@
+### Final Diagnosis:
+
+**Multidisciplinary Medical Team Summary Report - Patient 345678 (Michael Johnson)**
+
+**Chief Complaint:** Episodic chest pain, palpitations, shortness of breath, dizziness, and sweating.
+
+**Synthesized Findings:**
+
+* **Cardiology:** Extensive cardiac workup (ECG, cardiac enzymes, Holter monitor, echocardiogram) revealed normal cardiac structure and function. Occasional PVCs were noted but considered insignificant given the overall findings.  The cardiologist highlights the strong correlation between symptoms and the patient's diagnosed anxiety and GERD.
+
+* **Psychology:**  Psychological assessment strongly suggests a diagnosis of panic disorder, given the presentation of classic panic attack symptoms, pre-existing anxiety diagnosis, positive family history, and lifestyle factors contributing to anxiety exacerbation.
+
+* **Pulmonology:**  Respiratory examination is unremarkable.  While some symptoms (chest pain, shortness of breath) could have respiratory components, the current evidence points more strongly towards cardiac and psychological etiologies.  Pulmonary function tests (PFTs) are not yet indicated, but could be considered if symptoms persist despite treatment for anxiety.
+
+**Correlations:**  All three specialist reports highlight the significant role of the patient's anxiety disorder in contributing to his reported symptoms. While cardiac and pulmonary pathologies have been largely ruled out, the patient's anxiety likely exacerbates or triggers symptoms, mimicking those of cardiac or respiratory conditions.
+
+**Diagnosis:**
+
+The most likely diagnosis is **panic disorder with somatic symptoms**,  manifesting as episodic chest pain, palpitations, shortness of breath, dizziness, and sweating.  The pre-existing anxiety diagnosis, family history, and response to symptoms strongly support this diagnosis.  Cardiac and pulmonary causes have been largely excluded based on extensive testing.
+
+**Recommendations:**
+
+1. **Prioritize psychological management:**  Continue or intensify current CBT therapy. Optimize medication management for anxiety, considering potential adjustments to existing benzodiazepine therapy and careful monitoring for dependence.  Lifestyle modifications including stress reduction techniques, regular exercise, and limiting caffeine/alcohol intake are crucial.
+
+2. **Gastroenterology consultation (if indicated):** Consider referral to a gastroenterologist to further investigate and manage the patient's GERD.  Esophageal spasm related to GERD could potentially contribute to chest pain, although it is currently secondary to the primary diagnosis.
+
+3. **Symptom monitoring and follow-up:** Close monitoring of symptoms is crucial to assess the effectiveness of the anxiety management plan. Regular follow-up appointments with the psychiatrist/psychologist and primary care physician are recommended.
+
+4. **Pulmonology referral (if symptoms persist):** If symptoms persist despite comprehensive anxiety management, a referral to pulmonology for PFTs and further assessment should be considered to definitively exclude any underlying respiratory pathology.  However, this should be considered a secondary step, after focusing on the primary anxiety diagnosis.
