@@ -9,9 +9,6 @@ from google.genai import types
 from Utils.adk_agents import MedicalAgentFactory
 import json
 
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Loading API key from a dotenv file.
-
 load_dotenv(dotenv_path='apikey.env') 
 
 # read the medical report
